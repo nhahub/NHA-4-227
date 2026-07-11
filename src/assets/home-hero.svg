@@ -1,0 +1,30 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1080" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="card" x1="290" y1="210" x2="910" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#334155"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(870 235) rotate(140.006) scale(590.19 628.359)">
+      <stop stop-color="#818CF8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+  <rect width="1200" height="800" rx="36" fill="url(#glow)"/>
+  <rect x="270" y="170" width="660" height="470" rx="30" fill="url(#card)" stroke="#475569" stroke-width="2"/>
+  <rect x="330" y="235" width="540" height="270" rx="20" fill="#0F172A" stroke="#334155" stroke-width="2"/>
+  <circle cx="420" cy="330" r="70" fill="#312E81"/>
+  <path d="M420 282L440 322L485 329L452 361L460 406L420 384L380 406L388 361L355 329L400 322L420 282Z" fill="#E2E8F0"/>
+  <rect x="520" y="282" width="300" height="26" rx="13" fill="#334155"/>
+  <rect x="520" y="325" width="250" height="22" rx="11" fill="#475569"/>
+  <rect x="520" y="363" width="220" height="22" rx="11" fill="#475569"/>
+  <rect x="520" y="441" width="180" height="32" rx="16" fill="#6366F1"/>
+  <circle cx="280" cy="118" r="24" fill="#6366F1"/>
+  <circle cx="922" cy="96" r="14" fill="#22C55E" fill-opacity="0.8"/>
+  <circle cx="980" cy="670" r="20" fill="#3B82F6" fill-opacity="0.8"/>
+  <circle cx="220" cy="670" r="18" fill="#F59E0B" fill-opacity="0.75"/>
+</svg>
