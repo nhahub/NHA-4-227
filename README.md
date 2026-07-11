@@ -7,11 +7,11 @@ Smart Multi-Role E-Commerce Platform is a MERN-based web application inspired by
 # Installation Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/NHA-4-227
+git clone https://github.com/NHA-4-227.git
 ```
 2. Navigate to the project folder
 ```bash
-cd REPOSITORY_NAME
+cd NHA-4-227
 ```
 3. Install frontend dependencies
 ```bash
