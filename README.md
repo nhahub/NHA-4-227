@@ -125,7 +125,8 @@ Support-related endpoints.
 ## Frontend (Live Demo)
 https://nha-4-227.vercel.app/
 ## Source Code
-GitHub Repository: https://github.com/NHA-4-227
+GitHub Repository: https://github.com/nhahub/NHA-4-227
+
 Backend deployment is currently under development.
 ---
 # Technologies Used
