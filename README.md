@@ -40,8 +40,8 @@ Create a `.env` file inside the **backend** folder.
 Example:
 ```env
 PORT=5000
-MONGO_URI=mongodb+srv://seifmagde40_db_user:seifmagdy789@cluster0.ntvyszv.mongodb.net/smartecommerce?retryWrites=true&w=majority&appName=Cluster0
-JWT_SECRET=smartcart_jwt_secret_2026
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
 ```
 For the frontend, create a `.env` file in the project root if needed.
 Example:
